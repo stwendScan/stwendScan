@@ -7,3 +7,6 @@ def test2():
 
 def test3():
     print("test3")
+
+def featureBla():
+    print("featurebla")
